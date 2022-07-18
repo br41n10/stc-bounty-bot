@@ -1,0 +1,36 @@
+{
+  "name": "stc-bounty-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A bot for offerring bounty with STC in Github.",
+  "author": "br41n10",
+  "license": "ISC",
+  "homepage": "https://github.com//",
+  "keywords": [
+    "probot",
+    "github",
+    "probot-app"
+  ],
+  "scripts": {
+    "start": "probot run ./index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@starcoin/starcoin": "^2.1.6",
+    "minimist": "^1.2.6",
+    "probot": "^12.2.5",
+    "probot-commands": "^1.1.0"
+  },
+  "devDependencies": {
+    "@starcoin/starcoin": "^2.1.6",
+    "jest": "^28.0.0",
+    "nock": "^13.0.5",
+    "smee-client": "^1.2.2"
+  },
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
