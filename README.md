@@ -2,7 +2,9 @@
 
 A bot for offerring bounty with STC in Github.
 
-> A GitHub App built with [Probot](https://github.com/probot/probot). 
+> A GitHub App built with [Probot](https://github.com/probot/probot).
+
+Here is and [example issue bounty](https://github.com/br41n10/stc-bounty-bot/issues/1).
 
 ## Config
 
