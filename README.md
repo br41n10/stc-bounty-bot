@@ -1,5 +1,6 @@
 # stc-bounty-bot
 
+a
 A bot for offerring bounty with STC in Github.
 
 > A GitHub App built with [Probot](https://github.com/probot/probot).
